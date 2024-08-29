@@ -9,8 +9,8 @@ body {
 }
 
 /* Styles for the main heading (h1) */
-#homePageTitle {
-    color: #6a5d19; /* Dark yellow color for the main heading */
+.homePageTitle {
+    color: #fff; /* Dark yellow color for the main heading */
     text-align: center; /* Centers the text horizontally */
     text-shadow: 
         -1px -1px 0 rgb(68, 95, 125),  
