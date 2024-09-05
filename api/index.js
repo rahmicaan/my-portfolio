@@ -19,7 +19,7 @@ app.use(cors()); // Make sure CORS is initialized before routes
 
 // Basic route
 app.get('/', (req, res) => {
-    res.send('Here I am, your first running API!'); // <<< This line has been modified for testing purposes
+    res.send('Here I am, your first running API!!!'); // <<< This line has been modified for testing purposes
 });
 
 // Define routes
